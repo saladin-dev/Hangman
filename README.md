@@ -30,11 +30,18 @@ This project was created as a beginner-friendly way to practice core Python conc
 - Standard Python libraries: `random`, `os`
 
 ---
-
-
-
-
-
+## 📌 Future Improvements
+- Add difficulty levels.
+- Implement word list from a file or API.
+- GUI version using `tkinter` or `pygame`.
+---
+## 🤝 Credits
+Built with 💻 by **Saladin**  
+Part of my learning journey into game development and Python.
+---
+## 📄 License
+This project is open source and free to use under the [MIT License](LICENSE).
+---
 ## 🚀 How to Run
 
 1. Make sure you have Python 3 installed.
